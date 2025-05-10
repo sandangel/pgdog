@@ -1,7 +1,7 @@
 name: package
 on:
   push:
-    branches: ['main', 'ci/add-linux-arm64-build']
+    branches: ['main']
   workflow_dispatch:
 
 env:
